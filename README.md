@@ -1,4 +1,5 @@
 # NEW SYMFONY PROJECT
+- Install Docker
 - Install PHP
 - Install Composer
 
