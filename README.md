@@ -2,6 +2,7 @@
 - Install Docker
 - Install PHP
 - Install Composer
+[Composer](https://getcomposer.org/download/)
 
 ```bash
 docker-compose up -d
