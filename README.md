@@ -1,5 +1,6 @@
 # NEW SYMFONY PROJECT
 - Install Docker
+[For Windows](https://docs.docker.com/docker-for-windows/install/) | [For Linux(Ubuntu)](https://docs.docker.com/engine/install/ubuntu/)
 - Install PHP
 - Install Composer
 [Composer](https://getcomposer.org/download/)
