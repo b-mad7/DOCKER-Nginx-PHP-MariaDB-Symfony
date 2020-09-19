@@ -4,7 +4,7 @@
 - Install PHP
 [For Windows](https://www.jeffgeerling.com/blog/2018/installing-php-7-and-composer-on-windows-10) | [For Linux(Ubuntu)](https://linuxize.com/post/how-to-install-php-on-ubuntu-18-04/)
 - Install Composer
-[Composer](https://getcomposer.org/download/)
+[For Windows](https://getcomposer.org/download/) | [For Linux(Ubuntu)](https://www.ionos.com/community/hosting/php/install-and-use-php-composer-on-ubuntu-1604/)
 
 ```bash
 docker-compose up -d
